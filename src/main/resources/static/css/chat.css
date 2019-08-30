@@ -107,7 +107,6 @@
 	position: relative;
 	width: 8px;
 	height: 22px;
-	background: url(./chat_balloon_yellow.right.png) no-repeat;
 	z-index: 1;
 }
 
